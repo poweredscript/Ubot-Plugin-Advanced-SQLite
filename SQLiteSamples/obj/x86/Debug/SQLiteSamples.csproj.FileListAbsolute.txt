@@ -1,0 +1,14 @@
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\bin\Debug\SQLiteSamples.exe
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\bin\Debug\SQLiteSamples.pdb
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\bin\Debug\System.Data.SQLite.dll
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\bin\Debug\System.Data.SQLite.xml
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\obj\x86\Debug\SQLiteSamples.csprojResolveAssemblyReference.cache
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\obj\x86\Debug\SQLiteSamples.exe
+C:\Users\PCC1\Desktop\SQLiteSamples\SQLiteSamples\obj\x86\Debug\SQLiteSamples.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\bin\Debug\SQLiteSamples.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\bin\Debug\SQLiteSamples.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\bin\Debug\System.Data.SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\bin\Debug\System.Data.SQLite.xml
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\obj\x86\Debug\SQLiteSamples.csprojResolveAssemblyReference.cache
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\obj\x86\Debug\SQLiteSamples.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\SQLiteSamples\obj\x86\Debug\SQLiteSamples.pdb

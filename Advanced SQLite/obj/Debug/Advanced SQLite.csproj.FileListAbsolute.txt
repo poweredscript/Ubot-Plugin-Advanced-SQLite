@@ -1,0 +1,41 @@
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\Advanced SQLite.dll.config
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\Advanced SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\Advanced SQLite.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\System.Data.SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\UBotPlugin.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\System.Data.SQLite.xml
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced SQLite.csprojResolveAssemblyReference.cache
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced SQLite.g.resources
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced_SQLite.Properties.Resources.resources
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced SQLite.csproj.GenerateResource.Cache
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced SQLite.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\x64\SQLite.Interop.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\bin\Debug\x86\SQLite.Interop.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite\Advanced SQLite\obj\Debug\Advanced_SQLite.SqliteView.resources
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\x64\SQLite.Interop.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\x86\SQLite.Interop.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.dll.config
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\System.Data.SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\UBotPlugin.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\System.Data.SQLite.xml
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.csprojResolveAssemblyReference.cache
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.g.resources
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced_SQLite.Properties.Resources.resources
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.csproj.GenerateResource.Cache
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.dll
+D:\IM\Visual Studio 2013\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.pdb
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\x64\SQLite.Interop.dll
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\x86\SQLite.Interop.dll
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.dll.config
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.dll
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\Advanced SQLite.pdb
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.g.resources
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced_SQLite.Properties.Resources.resources
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.dll
+D:\Visual Studio\Projects\Advanced SQLite - Free\Advanced SQLite\obj\Debug\Advanced SQLite.pdb
